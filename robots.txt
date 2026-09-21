@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://julaixiu.github.io/yandexad/sitemap.xml
